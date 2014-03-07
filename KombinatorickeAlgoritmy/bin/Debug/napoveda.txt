@@ -1,0 +1,38 @@
+Editor grafù
+--------------------------------------------------------------------------------
+Aplikace umožòuje vytváøení a editaci grafù.
+
+Graf je možné uložit a poté následné naèíst.
+
+Vrcholy: 
+	- vytvoøení pomocí kliktutí na šedou plochu.
+	- odstranìní pomocí kontextové nabídky v seznamu vrcholu a hran.
+
+Hrany:
+	- vytvoøení pomocí kontextové nabídky v seznamu vrcholu a hran
+	  (vybereme 2 vrcholy, mezi kterými se vytvoøí hrana).
+	- odstranìní pomocí kontextové nabídky v seznamu vrcholù a hran.
+
+Informace:
+	- po kliknutí na vrchol èi hranu v seznamu, se vypíšou informace
+	  o vrcholu èi hranì (nazev, souøadnice, barva a ohodnocení)
+	- do políèka barva se zadá barva ve tvaru Hex (#f00, #ff0000, 
+	  #fff000000) nebo slovnì(black, blue, red)
+
+Algoritmy:
+	
+Vrcholové barvení - není potøeba nijak nastavovat, 
+automaticky se provede pro všechny grafy.
+
+Prohledávání do hloubky - je potøeba nastavit poèáteèní vrchol, který urèí graf, 
+kde se algoritmus provede. Dále je možnost krokování, které postupnì 
+vypisuje zprávy, jak algoritmus pracuje.
+
+Minimální kostra - je potøeba nastavit poèáteèní vrchol, který urèí graf, 
+kde se algoritmus provede. Dále je možnost krokování, které postupnì vypisuje 
+zprávy, jak algoritmus pracuje.
+
+Matice sousednosti a incidenèní matice:
+Po kliknutí na dané tlaèítko se otevøe okno s danými maticemi.
+
+

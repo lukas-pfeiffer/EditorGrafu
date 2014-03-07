@@ -1,0 +1,17 @@
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\bin\Debug\KombinatorickeAlgoritmy.exe.config
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\bin\Debug\KombinatorickeAlgoritmy.exe
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\bin\Debug\KombinatorickeAlgoritmy.pdb
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\KombinatorickeAlgoritmy.csprojResolveAssemblyReference.cache
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\MainWindow.baml
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\MainWindow.g.cs
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\App.g.cs
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\KombinatorickeAlgoritmy_MarkupCompile.cache
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\KombinatorickeAlgoritmy.g.resources
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\KombinatorickeAlgoritmy.Properties.Resources.resources
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\KombinatorickeAlgoritmy.csproj.GenerateResource.Cache
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\KombinatorickeAlgoritmy.exe
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\KombinatorickeAlgoritmy.pdb
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\OknoMatice.baml
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\OknoMatice.g.cs
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\OknoNapoveda.baml
+C:\Users\Lukasinho\Documents\Visual Studio 2012\Projects\KombinatorickeAlgoritmy\KombinatorickeAlgoritmy\obj\Debug\OknoNapoveda.g.cs

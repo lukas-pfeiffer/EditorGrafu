@@ -1,0 +1,13 @@
+﻿<Window x:Class="KombinatorickeAlgoritmy.OknoMatice"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Matice sousednosti a incidenční" Height="586.076" Width="717.722" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+    </Window.Background>
+    <Grid>
+        <ScrollViewer>
+            <TextBlock x:Name="textBlock1" Margin="10" TextWrapping="Wrap"><Run Text="TextBlock"/></TextBlock>
+        </ScrollViewer>
+    </Grid>
+</Window>
